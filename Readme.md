@@ -15,13 +15,13 @@
 
 ### About Me
 
-Results-driven Full Stack Engineer with **4+ years** of experience architecting and delivering scalable web, mobile, and SaaS applications. I specialize in building enterprise-grade systems — from multi-module ERP platforms and production-ready DApps to high-performance dashboards — using modern JavaScript ecosystems.
+Results-driven Full Stack Engineer with **4+ years** of experience architecting and delivering scalable web, mobile, and SaaS applications. I specialize in building enterprise-grade systems, from multi-module ERP platforms and production-ready DApps to high-performance dashboards, using modern JavaScript ecosystems.
 
 I'm passionate about clean architecture, component-driven design, and shipping real-world products that drive measurable business outcomes.
 
 - Based in **Karachi, Pakistan** | Open to **remote opportunities worldwide**
 - Currently building enterprise ERP, SaaS, and Web3 products at **BrDigitech**
-- BS in Information Technology — **University of Sindh, Jamshoro**
+- BS in Information Technology, **University of Sindh, Jamshoro**
 
 ---
 
@@ -29,7 +29,7 @@ I'm passionate about clean architecture, component-driven design, and shipping r
 
 | Domain | Highlights |
 |---|---|
-| **Enterprise ERP** | 13+ integrated modules — CRM, POS, Finance, Inventory, Loan & Lease, Workflow Automation |
+| **Enterprise ERP** | 13+ integrated modules: CRM, POS, Finance, Inventory, Loan & Lease, Workflow Automation |
 | **SaaS Platforms** | Multi-tenant architectures with modular service layers and role-based access control |
 | **Web3 & DApps** | Ethereum wallet integrations, smart contract interactions, decentralized authentication |
 | **Mobile Apps** | Cross-platform React Native applications with real-time features |
@@ -96,7 +96,7 @@ I'm passionate about clean architecture, component-driven design, and shipping r
 <td width="50%">
 
 **QR-based Restaurant SaaS**
-<br/>Multi-tenant SaaS for restaurant chains featuring digital QR menus, real-time order tracking, kitchen display systems, and owner analytics — reducing order processing time by 30%.
+<br/>Multi-tenant SaaS for restaurant chains featuring digital QR menus, real-time order tracking, kitchen display systems, and owner analytics, reducing order processing time by 30%.
 <br/>`Next.js` `Node.js` `MongoDB` `Firebase`
 
 </td>
@@ -104,15 +104,15 @@ I'm passionate about clean architecture, component-driven design, and shipping r
 <tr>
 <td width="50%">
 
-**Web3 DApp — Blockchain Wallet Integration**
+**Web3 DApp - Blockchain Wallet Integration**
 <br/>Decentralized application on Ethereum with MetaMask wallet authentication, smart contract interactions, and on-chain data display.
 <br/>`Next.js` `Web3.js` `Ethers.js` `Solidity`
 
 </td>
 <td width="50%">
 
-**AFZ Solutions — UAE Logistics Platform**
-<br/>Real-time logistics and delivery management system for the UAE market with GPS tracking, route optimization, and driver assignment — reducing delivery turnaround by 25%.
+**AFZ Solutions - UAE Logistics Platform**
+<br/>Real-time logistics and delivery management system for the UAE market with GPS tracking, route optimization, and driver assignment, reducing delivery turnaround by 25%.
 <br/>`React.js` `Node.js` `Express.js` `MongoDB`
 
 </td>
@@ -120,7 +120,7 @@ I'm passionate about clean architecture, component-driven design, and shipping r
 <tr>
 <td width="50%">
 
-**ViewnShop — Video E-commerce**
+**ViewnShop - Video E-commerce**
 <br/>Video-first e-commerce platform enabling interactive video-based product discovery and in-stream purchasing, increasing average session engagement by 45%.
 <br/>`MERN Stack`
 
@@ -150,14 +150,20 @@ I'm passionate about clean architecture, component-driven design, and shipping r
 
 ### GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/sameer52718">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=sameer52718&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/sameer52718">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer52718&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sameer52718&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer52718&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-
-<img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer52718&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/sameer52718">
+    <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer52718&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
