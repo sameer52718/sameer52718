@@ -1,29 +1,172 @@
-<h1 align="center">Hi 👋, I'm Sameer Ali</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameer52718" alt="sameer52718" /></a> </p>
+# Sameer Shaikh
 
-<p align="left"> <a href="https://twitter.com/iamsameer_ali" target="blank"><img src="https://img.shields.io/twitter/follow/iamsameer_ali?logo=twitter&style=for-the-badge" alt="iamsameer_ali" /></a> </p>
+**Full Stack Engineer | MERN Stack | Next.js | React Native | Web3 | SaaS & ERP Systems**
 
-- 🌱 I’m currently learning **React , Node**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-ali52718/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sameer52718)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisameer52718@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sameershaikh.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://sameershaikh.netlify.app/](https://sameershaikh.netlify.app/)
+</div>
 
-- 📫 How to reach me **alisameer52718@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iamsameer_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsameer_ali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sameer-ali52718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer-ali52718" height="30" width="40" /></a>
-<a href="https://fb.com/sameer52718" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sameer52718" height="30" width="40" /></a>
-<a href="https://instagram.com/iamsameer_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamsameer_ali" height="30" width="40" /></a>
-</p>
+### About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Results-driven Full Stack Engineer with **4+ years** of experience architecting and delivering scalable web, mobile, and SaaS applications. I specialize in building enterprise-grade systems — from multi-module ERP platforms and production-ready DApps to high-performance dashboards — using modern JavaScript ecosystems.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer52718&show_icons=true&locale=en&layout=compact" alt="sameer52718" /></p>
+I'm passionate about clean architecture, component-driven design, and shipping real-world products that drive measurable business outcomes.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer52718&show_icons=true&locale=en" alt="sameer52718" /></p>
+- Based in **Karachi, Pakistan** | Open to **remote opportunities worldwide**
+- Currently building enterprise ERP, SaaS, and Web3 products at **BrDigitech**
+- BS in Information Technology — **University of Sindh, Jamshoro**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer52718&" alt="sameer52718" /></p>
+---
+
+### What I Build
+
+| Domain | Highlights |
+|---|---|
+| **Enterprise ERP** | 13+ integrated modules — CRM, POS, Finance, Inventory, Loan & Lease, Workflow Automation |
+| **SaaS Platforms** | Multi-tenant architectures with modular service layers and role-based access control |
+| **Web3 & DApps** | Ethereum wallet integrations, smart contract interactions, decentralized authentication |
+| **Mobile Apps** | Cross-platform React Native applications with real-time features |
+| **E-commerce** | Multi-vendor platforms with multilingual & multi-currency support |
+
+---
+
+### Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+**Web3 / Blockchain**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**DevOps & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**Enterprise ERP Platform**
+<br/>End-to-end ERP with 13+ modules including CRM, POS, Finance, Loan & Lease, Document Archiving, and Workflow Automation. Multi-tenant architecture serving multi-branch operations.
+<br/>`Next.js` `Node.js` `MongoDB` `MySQL` `TypeScript` `Socket.IO`
+
+</td>
+<td width="50%">
+
+**QR-based Restaurant SaaS**
+<br/>Multi-tenant SaaS for restaurant chains featuring digital QR menus, real-time order tracking, kitchen display systems, and owner analytics — reducing order processing time by 30%.
+<br/>`Next.js` `Node.js` `MongoDB` `Firebase`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Web3 DApp — Blockchain Wallet Integration**
+<br/>Decentralized application on Ethereum with MetaMask wallet authentication, smart contract interactions, and on-chain data display.
+<br/>`Next.js` `Web3.js` `Ethers.js` `Solidity`
+
+</td>
+<td width="50%">
+
+**AFZ Solutions — UAE Logistics Platform**
+<br/>Real-time logistics and delivery management system for the UAE market with GPS tracking, route optimization, and driver assignment — reducing delivery turnaround by 25%.
+<br/>`React.js` `Node.js` `Express.js` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**ViewnShop — Video E-commerce**
+<br/>Video-first e-commerce platform enabling interactive video-based product discovery and in-stream purchasing, increasing average session engagement by 45%.
+<br/>`MERN Stack`
+
+</td>
+<td width="50%">
+
+**Multi-Vendor E-commerce Platform**
+<br/>Full-featured marketplace with multilingual (Arabic/English) and multi-currency (AED/USD/PKR) support, onboarding 10+ vendors at launch.
+<br/>`MERN Stack` `React Native`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Impact & Metrics
+
+- Reduced enterprise client onboarding time by **40%** through modular SaaS architecture
+- Cut order processing time by **30%** with QR-based restaurant management system
+- Reduced delivery turnaround by **25%** for UAE logistics operations
+- Increased user engagement by **45%** on video e-commerce platform
+- Achieved **99.9% uptime** across production deployments on AWS
+- Accelerated feature delivery by **35%** through reusable component libraries
+
+---
+
+### GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sameer52718&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer52718&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+<img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer52718&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to collaborations, freelance projects, and remote opportunities.**
+<br/>Let's build something impactful together.
+
+[![Email](https://img.shields.io/badge/alisameer52718@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alisameer52718@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-ali52718/)
+
+</div>
