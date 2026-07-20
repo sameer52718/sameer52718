@@ -152,10 +152,10 @@ I'm passionate about clean architecture, component-driven design, and shipping r
 
 <p align="center">
   <a href="https://github.com/sameer52718">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=sameer52718&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.shion.dev/api?username=sameer52718&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/sameer52718">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer52718&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sameer52718&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
